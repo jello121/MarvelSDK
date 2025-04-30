@@ -1,0 +1,50 @@
+Found FChunkedFixedUObjectArray GObjects at offset 0xe094b50
+
+Found 'FNamePool GNames' at offset 0xDFDCD40
+
+
+NameArray::FNameBlockOffsetBits: 0x10
+
+Off::UStruct::Children: 0x50
+Off::Field::Next: 0x30
+Off::UStruct::SuperStruct: 0x48
+Off::UStruct::Size: 0x60
+Off::UStruct::MinAlignemnts: 0x64
+Off::UClass::CastFlags: 0xE8
+Game uses FProperty system
+
+Off::UStruct::ChildProperties: 0x58
+Applaying fix to hardcoded offsets
+
+Off::FField::Next: 0x18
+Off::FField::Name: 0x20
+Off::FField::Flags: 0x2C
+Off::UClass::ClassDefaultObject: 0x128
+Off::UEnum::Names: 0x48
+Off::UFunction::FunctionFlags: 0xC0
+
+Off::UFunction::ExecFunction: 0xE8
+
+Off::Property::ElementSize: 0x34
+Off::Property::ArrayDim: 0x30
+Off::Property::Offset_Internal: 0x44
+Off::Property::PropertyFlags: 0x38
+UPropertySize: 0x78
+
+Off::ArrayProperty::Inner: 0x80
+Off::SetProperty::ElementProp: 0x78
+Off::MapProperty::Base: 0x78
+
+Off::InSDK::ULevel::Actors: 0xC0
+
+Off::InSDK::UDataTable::RowMap: 0x38
+
+
+PE-Offset: 0x1051810
+PE-Index: 0x50
+
+GWorld-Offset: 0xE2460B8
+
+Off::InSDK::Text::TextSize: 0x18
+Off::InSDK::Text::TextDatOffset: 0x0
+Off::InSDK::Text::InTextDataStringOffset: 0x28
